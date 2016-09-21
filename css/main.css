@@ -1,0 +1,96 @@
+/* Inserta tu código aquí */
+.navbar-default{
+	margin-bottom: 0;
+}
+
+.fondo-menu{
+	background-color:#F50C43;
+}
+.navbar-default .navbar-nav>li>a{   
+	color: #FAFF9D;
+}
+.navbar-default .creamy{
+	color: #FAFF9D;
+	font-family: 'Pacifico', cursive;
+}
+
+ul, li,  a {
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;	
+	text-align: center;
+	font-size: 14px;
+	font-family: Arial;
+	margin-left: 29px;
+	margin-top: 1%;
+}
+.fondo-helado{
+  opacity: 0.7;
+  -moz-transition: all 0.5s ease 0s;
+  text-align: center;
+
+}
+.fondo-helado:hover {
+  opacity: 5;
+  -webkit-filter: grayscale(100%);
+  text-align: center;
+
+}
+
+.fondo-helado{
+	background-image: url(../img/creamy.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	height: 450px;
+	text-align: center;
+    padding-top: 5%;
+}
+
+
+.texto-creamy h1{
+	color: #A25F46;
+}
+
+.segunda-parte{
+	background-color: #FCD472;
+	padding: 3% 5%;
+}
+.texto-oh{
+	text-align: center;
+	color: #A2190F;
+}
+
+.ice{
+	width: 100%;
+}
+
+.tercera-parte{
+	background-color: #CE8F46;
+	padding: 2% 5%;
+}
+
+.texto-about{
+	text-align: center;
+	color: #FFE3C6;
+}
+
+.cuarta-parte{
+	background-color: #FF2C54;
+	padding: 3% 5%;
+}
+
+.texto-desktop{
+	color: #FFC99B;
+	text-align: center;
+
+}
+.cuarta-parte{
+	padding: 6% 5%;
+}
+
+footer{
+	background-color: #C27D37;
+	color: #FFE1B0;
+	padding: 2% 5%;
+}
